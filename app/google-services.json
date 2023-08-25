@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "456760087329",
+    "firebase_url": "https://laosiotlatthida-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laosiotlatthida",
+    "storage_bucket": "laosiotlatthida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456760087329:android:654e3ef1a85557f2d72460",
+        "android_client_info": {
+          "package_name": "com.example.iotgateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456760087329-aa18s7d2i4ngqelq6bie2r9ns18m2upv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQktwA-bGtN2LI6bh39V121v58PHC8phI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456760087329-aa18s7d2i4ngqelq6bie2r9ns18m2upv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456760087329:android:c80add3d98256fdbd72460",
+        "android_client_info": {
+          "package_name": "com.weedscomm.iotgateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456760087329-aa18s7d2i4ngqelq6bie2r9ns18m2upv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQktwA-bGtN2LI6bh39V121v58PHC8phI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456760087329-aa18s7d2i4ngqelq6bie2r9ns18m2upv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
