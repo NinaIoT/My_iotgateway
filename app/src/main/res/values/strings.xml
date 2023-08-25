@@ -5,6 +5,6 @@
     <string name="connect_mqtt_server">connect mqtt server</string>
     <string name="topic">topic</string>
     <string name="subscribe">subscribe</string>
-    <string name="tcp_ip">10.0.2.2</string>
+    <string name="tcp_ip">10.0.2.2 or broker.hivemq.com</string>
 
 </resources>
